@@ -15,7 +15,7 @@ It was created to practice basic API setup and client–server communication wit
 <p>
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core Badge" height="32" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge" height="32" />
-  <img src="https://img.shields.io/badge/Frontend-Simple-lightgrey?style=for-the-badge" alt="Simple Frontend Badge" height="32" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core Badge" height="32" />
 </p>
 
 <br>
